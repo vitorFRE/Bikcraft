@@ -1,7 +1,9 @@
 @import url(./global/global.css);
 @import url(./utils/tipografia.css);
 @import url(./utils/cores.css);
+/* Home */
 @import url(./global/header.css);
+@import url(./global/home/tecnologia.css);
 
 /* Utilidades */
 @import url(./utils/componentes.css);
