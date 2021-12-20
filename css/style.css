@@ -4,6 +4,7 @@
 /* Home */
 @import url(./global/header.css);
 @import url(./global/home/tecnologia.css);
+@import url(./global/home/parceiros.css);
 
 /* Utilidades */
 @import url(./utils/componentes.css);
