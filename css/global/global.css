@@ -10,6 +10,10 @@ ul {
   list-style: none;
 }
 
+li {
+  list-style: none;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -28,6 +32,7 @@ dd {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
